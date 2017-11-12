@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [API Blueprint Specification](API%20Blueprint%20Specification.md)
-* [Glossary of Terms](Glossary%20of%20Terms.md)
+* [API Blueprint Specification](API Blueprint Specification.md)
+* [Glossary of Terms](Glossary of Terms.md)
 * [Tutorial](Tutorial.md)
 * [Examples](examples/README.md)
   * [01. Simplest API](examples/01.%20Simplest%20API.md)
